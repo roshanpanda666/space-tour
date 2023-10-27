@@ -7,7 +7,7 @@ const Heropage = () => {
       <div className='h-[100vh] w-[99%] border-2 border-red-400 flex flex-col justify-center items-center '>
         {/* image */}
         <div className='w-[99%]'>
-        <img src="bghero.jpg" alt="" className='absolute lg:w-[99%] w-[98%] -mt-5'/>
+        <img src="bghero.jpg" alt="" className='absolute lg:w-[99%] w-[98%] -mt-5 opacity-80 '/>
         </div>
         
         <div className='flex justify-center items-center relative'>
